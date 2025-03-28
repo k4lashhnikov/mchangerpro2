@@ -24,7 +24,7 @@ pip install colorama
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/YourUsername/mchangerpro2.git
+git clone https://github.com/k4lashhnikov/mchangerpro2.git
 ```
 2. Navigate to the directory:
 ```
